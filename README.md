@@ -17,3 +17,11 @@ It should be used with the following settings:
   - **HDMI mode** = PC
 - Time:
   - **auto standby** = off
+
+## Response
+
+![](response.png)
+
+## Correction
+
+![](correction.png)
